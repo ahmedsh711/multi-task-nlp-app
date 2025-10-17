@@ -30,6 +30,13 @@ The model is deployed using **Streamlit** for real-time text prediction.
 | Hate Speech | Hate Speech & Offensive Language (Kaggle) |
 
 ---
+## 🧠 Download Pretrained Model
+
+The trained model file is too large to include directly in this repository.
+You can download it from Google Drive using the link below:
+
+🔗 Model Download:
+https://drive.google.com/file/d/12ZRglomEvtg73n5OeuldXqQ7d_Be5_bM/view?usp=sharing
 
 ## 🛠 Tech Stack
 
