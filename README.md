@@ -39,7 +39,5 @@ The model is deployed using **Streamlit** for real-time text prediction.
 - **NumPy / Pandas**
 - **Streamlit**
 
----
 
-## 📁 Project Structure
 
